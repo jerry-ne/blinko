@@ -58,7 +58,7 @@
   "password": "contraseña",
   "recovery": "Recuperación",
   "required-items-cannot-be-empty": "Los elementos obligatorios no pueden estar vacíos",
-  "rest-user-password": "Resto de la contraseña de usuario",
+  "reset-user-password": "Resto de la contraseña de usuario",
   "reviewed": "Revisado",
   "running": "Ejecutar",
   "save": "Guardar",

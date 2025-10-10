@@ -65,7 +65,7 @@
   "sign-in": "Giriş yap",
   "nickname": "Takma ad",
   "change-user-info": "Kullanıcı bilgilerini değiştir",
-  "rest-user-password": "Kullanıcı şifresini sıfırla",
+  "reset-user-password": "Kullanıcı şifresini sıfırla",
   "confirm-password": "Şifreyi Onayla",
   "confirm-your-password": "Şifrenizi onaylayın",
   "enter-your-username": "Kullanıcı adınızı girin",

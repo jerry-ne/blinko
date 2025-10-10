@@ -70,7 +70,7 @@
   "sign-in": "تسجيل الدخول",
   "nickname": "اللقب",
   "change-user-info": "تغيير معلومات المستخدم",
-  "rest-user-password": "إعادة تعيين كلمة مرور المستخدم",
+  "reset-user-password": "إعادة تعيين كلمة مرور المستخدم",
   "confirm-password": "تأكيد كلمة المرور",
   "confirm-your-password": "أكد كلمة المرور",
   "enter-your-username": "أدخل اسم المستخدم",
